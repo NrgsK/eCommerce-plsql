@@ -4,6 +4,7 @@
 This repository contains an Oracle database management system designed for an e-commerce or product management application. Below is an overview of the database schema, SQL scripts, and usage instructions.
 
 ## Database Schema Overview
+![Database Schema](https://github.com/NrgsK/eCommerce-plsql/blob/main/er_diagram.jpg)
 
 ### Tables
 
@@ -60,5 +61,4 @@ This repository includes the following SQL scripts:
 - Ensure thorough testing is conducted for each procedure and function.
 - Enhancements should include security measures, input validations, and error handling improvements.
 
-For more details, refer to the [SQL scripts](./sql_scripts/) folder.
 
